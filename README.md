@@ -13,7 +13,7 @@ The purpose of this project is to utilize the Kickstarter data to show Louise ho
 
 ### Analysis of Outcomes Based on Launch Date
 
-[Deliverable 1](https://github.com/laurlen2112/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)shows successful and failed campaigns in the “theater” parent category by month. 
+[Deliverable 1](https://github.com/laurlen2112/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png) shows successful and failed campaigns in the “theater” parent category by month. 
  
 
 ### Analysis of Outcomes Based on Goals
