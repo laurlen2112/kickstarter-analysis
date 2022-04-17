@@ -18,7 +18,7 @@ The purpose of this project is to utilize the Kickstarter data to show Louise ho
 
 ### Analysis of Outcomes Based on Goals
 
-Deliverable 2 shows successful and failed campaigns in relation to its fundraising goal.  This deliverable examines data in the “play” subcategory.  The goal range is broken up into brackets separated by about $5000.00 each bracket (picture).
+[Deliverable 2](https://github.com/laurlen2112/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png) shows successful and failed campaigns in relation to its fundraising goal.  This deliverable examines data in the “play” subcategory.  The goal range is broken up into brackets separated by about $5000.00 each bracket (picture).
 
 
 ### Challenges and Difficulties Encountered
